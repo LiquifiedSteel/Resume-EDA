@@ -1,9 +1,12 @@
 h1{
   font-family: Times New Roman, Arial, sans-seriff;
+
+  
 }
 
 h2{
   font-family: Lato, Arial, sans-seriff;
+
 }
 
 h3{
@@ -18,13 +21,24 @@ h3{
   background: #F4A03A;
   padding-left: 26px;
   margin-bottom: 30px;
+  border-radius: 19px;
+  padding: 10px 40px 10px 40px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .page1{
-  padding-left: 26px;
+  padding-left: 50px;
   outline-style: groove;
   border: 10px groove #1D18BB;
   background: #4582A3;
+  margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+  border-radius: 19px;
+	padding: 10px 40px 10px 40px;
+
+	text-align: left;
 }
 
 .strengths{
